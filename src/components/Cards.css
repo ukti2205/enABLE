@@ -1,0 +1,46 @@
+
+  .card{
+    width:20rem;
+   }
+  
+  .card:hover{
+    box-shadow: 5px 10px 20px 1px rgba(255, 253, 253, 0.253) !important;
+  }
+  
+  .card-body{
+    padding: 3rem 0 !important;
+  }
+  
+  .card-text{
+    font-size:0.9rem;
+    padding: 0.4rem 1.9rem;
+  }
+  
+  .container-fluid.row{
+    padding-top:6rem;
+  }
+  
+  
+  .card-img-top{
+    transform: scale(1);
+    /* width: 178.84px; */
+  }
+  
+  .card-img-top:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+  }
+  
+  h1{
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 30px;
+    color:aliceblue;
+  }
+  
+  .main-container{
+    padding-top: 30px;
+    padding-bottom: 70px;
+    background-color: rgb(29, 29, 29);
+  }
+  
